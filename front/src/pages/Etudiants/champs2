@@ -1,0 +1,27 @@
+this.matricule = etudiant.matricule
+this.nom  = etudiant.nom
+this.prenom  = etudiant.prenom
+this.date_naissance  = etudiant.date_naissance
+this.lieu_naissance  = etudiant.lieu_naissance
+this.presume  presume
+this.wilaya_naissance = etudiant.wilaya_naissance 
+this.adresse  = etudiant.adresse
+this.email  = etudiant.email
+this.mob1  = etudiant.mob1
+this.mob2  = etudiant.mob2
+this.sexe  = etudiant.sexe
+this.type  = etudiant.type
+this.nom_ar = etudiant.nom_ar 
+this.prenom_ar  = etudiant.prenom_ar
+this.nationalite  = etudiant.nationalite
+this.niveau_acces  = etudiant.niveau_acces
+this.groupe_sanguin  = etudiant.groupe_sanguin
+this.prenom_pere  = etudiant.prenom_pere
+this.prenom_pere_ar  = etudiant.prenom_pere_ar
+this.nom_mere  = etudiant.nom_mere
+this.nom_mere_ar  = etudiant.nom_mere_ar
+this.prenom_mere  = etudiant.prenom_mere
+this.prenom_mere_ar  = etudiant.prenom_mere_ar
+this.profession_pere  = etudiant.profession_pere
+this.profession_mere  = etudiant.profession_mere
+this.photo  = etudiant.photo

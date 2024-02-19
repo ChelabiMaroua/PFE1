@@ -1,0 +1,87 @@
+id_etudiant  
+matricule  
+nom  
+prenom  
+date_naissance  
+lieu_naissance  
+presume  
+wilaya_naissance  
+adresse  
+email  
+mob1  
+mob2  
+sexe  
+type  
+nom_ar  
+prenom_ar  
+nationalite  
+niveau_acces  
+groupe_sanguin  
+prenom_pere  
+prenom_pere_ar  
+nom_mere  
+nom_mere_ar  
+prenom_mere  
+prenom_mere_ar  
+profession_pere  
+profession_mere  
+photo  
+
+
+ID Etudiant 
+Matricule 
+Nom 
+Prénom 
+Date de naissance 
+Lieu de naissance 
+Présumé 
+Wilaya de naissance 
+Adresse 
+E-mail 
+Mobile Etudiant 
+Mobile Parents 
+Sexe 
+Type 
+Nom Ar 
+Prénom Ar 
+Nationalité 
+Niveau d'accès 
+Groupe sanguin  
+Prénom père 
+Prénom père Ar 
+Nom mère 
+Nom mère Ar 
+Prénom mère 
+Prénom mère Ar 
+Profession père 
+Profession mère 
+Photo 
+
+    { id: "id_etudiant", label: "ID Etudiant" },
+    { id: "matricule", label: "Matricule" },
+    { id: "nom", label: "Nom" },
+    { id: "prenom", label: "Prénom" },
+    { id: "date_naissance", label: "Date de naissance" },
+    { id: "lieu_naissance", label: "Lieu de naissance" },
+    { id: "presume", label: "Présumé" },
+    { id: "wilaya_naissance", label: "Wilaya de naissance" },
+    { id: "adresse", label: "Adresse" },
+    { id: "email", label: "E-mail" },
+    { id: "mob1", label: "Mobile Etudiant" },
+    { id: "mob2", label: "Mobile Parents" },
+    { id: "sexe", label: "Sexe" },
+    { id: "type", label: "Type" },
+    { id: "nom_ar", label: "Nom Ar" },
+    { id: "prenom_ar", label: "Prénom Ar" },
+    { id: "nationalite", label: "Nationalité" },
+    { id: "niveau_acces", label: "Niveau d'accès" },
+    { id: "groupe_sanguin", label: "Groupe sanguin" }, 
+    { id: "prenom_pere", label: "Prénom père" },
+    { id: "prenom_pere_ar", label: "Prénom père Ar" },
+    { id: "nom_mere", label: "Nom mère" },
+    { id: "nom_mere_ar", label: "Nom mère Ar" },
+    { id: "prenom_mere", label: "Prénom mère" },
+    { id: "prenom_mere_ar", label: "Prénom mère Ar" },
+    { id: "profession_pere", label: "Profession père" },
+    { id: "profession_mere", label: "Profession mère" },
+    { id: "photo", label: "Photo" },

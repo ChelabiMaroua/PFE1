@@ -1,0 +1,24 @@
+.App-logo {
+  height: 25vmin;
+  pointer-events: none;
+}
+
+.img {
+  min-height: 35vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+div {
+  text-align: left;
+}
+
+.Accueil {
+  text-align: center;
+}
+.Accueil2 {
+  text-align: right;
+}

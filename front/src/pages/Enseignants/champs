@@ -1,0 +1,66 @@
+id_enseignant   
+nom  
+prenom  
+date_naissance  
+lieu_naissance  
+wilaya_naissance  
+adresse  
+email  
+mob1  
+mob2  
+nationalite  
+civilite
+groupe_sanguin  
+date_recrutement
+date_cession
+type_form_consult
+type_perm_vacat
+diplome
+specialite
+observations  
+photo  
+
+
+ID Enseignant 
+Nom 
+Prénom 
+Date de naissance 
+Lieu de naissance 
+Wilaya de naissance 
+Adresse 
+E-mail 
+Mobile 1 
+Mobile 2 
+Nationalité
+Civilité
+Groupe sanguin
+Date de recrutement
+Date de cession
+Type Formateur/Consultant
+Type Permanent/Vacataire
+Diplôme
+Spécialité
+Observations
+Photo 
+
+    { id: "id_enseigant", label: "ID Enseignant" },
+    { id: "nom", label: "Nom" },
+    { id: "prenom", label: "Prénom" },
+    { id: "date_naissance", label: "Date de naissance" },
+    { id: "lieu_naissance", label: "Lieu de naissance" },
+    { id: "wilaya_naissance", label: "Wilaya de naissance" },
+    { id: "adresse", label: "Adresse" },
+    { id: "email", label: "E-mail" },
+    { id: "mob1", label: "Mobile 1" },
+    { id: "mob2", label: "Mobile 2" },
+    { id: "nationalite", label: "Nationalité" },
+    { id: "civilite", label: "Civilité" },
+    { id: "groupe_sanguin", label: "Groupe sanguin" },
+    { id: "date_recrutement", label: "Date de recrutement" },
+    { id: "date_cession", label: "Date de cession" },
+    { id: "type_form_consult", label: "Type Formateur/Consultant" },
+    { id: "type_perm_vacat", label: "Type Permanent/Vacataire" },
+    { id: "diplome", label: "Diplôme" },
+    { id: "specialite", label: "Spécialité" },
+    { id: "observations", label: "Observations" },
+    { id: "photo", label: "Photo" },
